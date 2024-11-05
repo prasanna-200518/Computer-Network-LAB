@@ -1,2 +1,1 @@
-# Computer-Network-LAB
-OUTput
+# CN_excercise
